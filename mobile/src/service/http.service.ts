@@ -96,8 +96,6 @@ class HttpService {
         ...token,
       };
     }
-    console.log(config);
-
     const urlData = this.extractUrlAndDataFromConfig(config);
 
     return this.fetchingService.post(
