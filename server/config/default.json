@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://cgs-todos:cgn-todos0014@cgs-todos.zcv4j.mongodb.net/test",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000
+}
