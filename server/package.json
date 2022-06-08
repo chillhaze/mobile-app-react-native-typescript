@@ -5,7 +5,7 @@
   "author": "Paul Cham",
   "license": "MIT",
   "scripts": {
-    "run-backend": "cd ./server && yarn server",
+    "run-backend": "yarn server",
     "tsc": "tsc",
     "watch-tsc": "tsc -w",
     "deploy": "node dist/src/server.js",
